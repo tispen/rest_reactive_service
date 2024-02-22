@@ -11,7 +11,8 @@
 3. Результат работы выводится в строке компилятора и на локальном сервере, созданном Spring Boot (http://localhost:8080/)
 
 Если результат не выводится, то проверьте права, плагины и версии
-<br>В помощь: https://spring.io/guides/gs/reactive-rest-service#initial
+<br> Другим способом запуска является создание jar
+<br>В помощь по всем вопросам инструкция: https://spring.io/guides/gs/reactive-rest-service#initial
 
 Результат:
 ![Screen](Screen.png)
