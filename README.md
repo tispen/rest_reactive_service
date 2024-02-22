@@ -14,4 +14,4 @@
 <br>В помощь: https://spring.io/guides/gs/reactive-rest-service#initial
 
 Результат:
-
+![Screen](Screen.png)
